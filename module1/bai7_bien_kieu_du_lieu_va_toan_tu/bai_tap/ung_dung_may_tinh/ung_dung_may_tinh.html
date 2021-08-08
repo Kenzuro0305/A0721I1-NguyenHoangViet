@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>Calculator</h3>
+<form name="cal">
+    <input type="text" id="number1">
+    <input type="text" id="number2">
+    <br/><br/>
+    <button type="button" onclick="Addition()" value="+">Addition(+)</button>
+    <button type="button" onclick="Subtraction()" value="-">Subtraction(-)</button>
+    <button type="button" onclick="Multiplication()" value="*">Multiplication(*)</button>
+    <button type="button" onclick="Division()" value="/">Division(/)</button>
+    <br/><br/>
+    <p id="rs"></p>
+</form>
+<script>
+    function Addition() {
+        let number1=document.getElementById("number1").value;
+        let number2=document.getElementById("number2").value;
+        let n1=parseInt(number1);
+        let n2=parseInt(number2);
+        let result=n1+n2;
+        document.getElementById("rs").innerHTML="Result Addition: "+result;
+    }
+    function Subtraction() {
+        let number1=document.getElementById("number1").value;
+        let number2=document.getElementById("number2").value;
+        let n1=parseInt(number1);
+        let n2=parseInt(number2);
+        let result=n1-n2;
+        document.getElementById("rs").innerHTML="Result Subtraction: "+result;
+    }
+    function Multiplication() {
+        let number1=document.getElementById("number1").value;
+        let number2=document.getElementById("number2").value;
+        let n1=parseInt(number1);
+        let n2=parseInt(number2);
+        let result=n1*n2;
+        document.getElementById("rs").innerHTML="Result Multiplication: "+result;
+    }
+    function Division() {
+        let number1=document.getElementById("number1").value;
+        let number2=document.getElementById("number2").value;
+        let n1=parseInt(number1);
+        let n2=parseInt(number2);
+        let result;
+        if (n2==0){
+            alert("Error!!!!!!!!");
+        }else {
+            result=n1/n2;
+            document.getElementById("rs").innerHTML="Result Division: "+result;
+        }
+    }
+</script>
+</body>
+</html>
