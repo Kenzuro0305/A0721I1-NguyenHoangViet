@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let ten = prompt("Nhập tên học sinh")
+    let a = prompt("Nhập điểm kiểm tra");
+    let b = prompt("Nhập điểm thi giữa kỳ");
+    let c = prompt("Nhập điểm điểm thi cuối kì");
+    let d = (parseInt(a)+(parseInt(b)*2)+(parseInt(c)*3))/6 ;
+    if (d >= 8) {
+        document.writeln(ten + " Là học sinh Giỏi");
+    }else if (d >= 6.5){
+        document.writeln(ten + " Là học sinh Khá");
+    }else if (d >= 5){
+        document.writeln(ten + " Là học sinh Trung Bình");
+    }else {
+        document.writeln(ten + " Là học sinh Yếu");
+    }
+</script>
+</body>
+</html>
