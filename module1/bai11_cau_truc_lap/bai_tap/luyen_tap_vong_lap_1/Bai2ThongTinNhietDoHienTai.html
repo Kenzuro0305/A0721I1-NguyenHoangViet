@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nhietDo = parseInt(prompt('Nhập số nhiệt độ hiện tại C là: '))
+    while (nhietDo<20 || nhietDo>100) {
+        if (nhietDo<20) {
+            alert('Cần nhập nhiệt độ cao hơn');
+            nhietDo = parseInt(prompt('Nhập số nhiệt độ hiện tại C là: '));
+        }
+        else if (nhietDo>100) {
+            alert('Cần nhập nhiệt độ thấp hơn');
+            nhietDo = parseInt(prompt('Nhập số nhiệt độ hiện tại C là: '));
+        }
+    }
+    document.write('Nhiệt độ hiện tại là: ' +nhietDo);
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let fibonacci = ' ', so = [], tong = 0;
+    for (let i=0;i<20;i++) {
+        if (i===0) {
+            so[0]=0;
+            fibonacci = so[0] +' ';
+        }
+        else if (i===1) {
+            so[1]=1;
+            fibonacci = so[1] +' ';
+        }
+        else {
+            so[i]=so[i-2] + so[i-1];
+            fibonacci = so[i] +' ';
+            tong += so[i];
+        }
+    }
+    document.write('Tổng của 20 số đầu tiên trong dãy Fibonacci là: '+tong);
+</script>
+</body>
+</html>
