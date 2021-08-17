@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let count=0;// biến đếm số lượng số nguyên tố
+    let num=2;
+    let result ="";
+    while (count<20){
+        let flag =true;
+        if (num<2){
+            flag =false;
+        }else {
+            for (let i =2; i<num;i++){
+                if (num%i==0){
+                    flag =false;
+                    break;
+                }
+            }
+        }
+        if (flag){
+            result +=num +",";
+            count++;
+        }
+        num++;
+    }
+    alert(result);
+
+    // sử dụng hàm kiểm tra SNT
+
+    // let count =0;
+    // let n=2;
+    // let result ="";
+    // while (count<20){
+    //   if (ktSNT(n)){
+    //       count++;
+    //       result +=n +","
+    //   }
+    //   n++;
+    // }
+    // alert(result);
+    //
+    //  function ktSNT(num){
+    //      let flag =true;
+    //      if (num<2){
+    //          flag =false;
+    //      }else {
+    //          for (let i =2; i<num;i++){
+    //              if (num%i==0){
+    //                  flag =false;
+    //                  break;
+    //              }
+    //          }
+    //      }
+    //      if (flag){
+    //          return true;
+    //      }else {
+    //          return false;
+    //      }
+    //  }
+</script>
+</body>
+</html>
