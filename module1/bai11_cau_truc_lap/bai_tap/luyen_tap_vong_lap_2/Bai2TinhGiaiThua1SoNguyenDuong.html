@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let n = parseInt(prompt('Nhập số giai thừa vào đây:'))
+    let giaiThua = 1;
+    if (n == 0 || n == 1) {
+        giaiThua = 1;
+        document.write('Giai thừa của ' + n + ' là: ' + giaiThua);
+    } else if (n < 0) {
+        alert('Số giao thừa cần nhập phải là số dương');
+    } else {
+        for (var i = 1; i <= n; i++) {
+            giaiThua = giaiThua * i;
+        }
+        document.write('Giai thừa của ' + n + ' là: ' + giaiThua);
+    }
+</script>
+</body>
+</html>
