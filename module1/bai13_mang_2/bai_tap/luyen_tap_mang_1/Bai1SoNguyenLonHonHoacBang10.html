@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let daySo = [7, 2, 8, 11, 25, 6, 9, 10, 13, 1];
+    let count = [];
+    for (let i = 0; i < daySo.length; i++) {
+        if (daySo[i] >= 10) {
+            count.push(daySo[i]);
+        }
+    }
+    document.write('Dãy số cho trước là:' + daySo.join(",") + '<br/>');
+    document.write('Các số nguyên lớn hơn 10 là:' + count.join(","));
+
+</script>
+</body>
+</html>

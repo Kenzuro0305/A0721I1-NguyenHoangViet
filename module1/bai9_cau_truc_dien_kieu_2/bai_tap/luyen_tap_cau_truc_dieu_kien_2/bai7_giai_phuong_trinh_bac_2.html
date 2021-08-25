@@ -9,15 +9,15 @@
     let a = prompt("Nhập số A");
     let b = prompt("Nhập số B");
     let c = prompt("Nhập số C");
-    let delta = (parseInt(b)*parseInt(b))-(4*parseInt(a)*parseInt(c));
-    let noKep = parseInt(-b)/(2*parseInt(a));
-    let x1 = ((parseInt(-b)) + Math.sqrt(delta))/(2*parseInt(a));
-    let x2 = ((parseInt(-b)) - Math.sqrt(delta))/(2*parseInt(a));
-    if (delta < 0 ){
+    let delta = (parseInt(b) * parseInt(b)) - (4 * parseInt(a) * parseInt(c));
+    let noKep = parseInt(-b) / (2 * parseInt(a));
+    let x1 = ((parseInt(-b)) + Math.sqrt(delta)) / (2 * parseInt(a));
+    let x2 = ((parseInt(-b)) - Math.sqrt(delta)) / (2 * parseInt(a));
+    if (delta < 0) {
         alert("Phương trình vô nghiệm");
-    }else if (delta == 0){
+    } else if (delta == 0) {
         alert("Phương trình có nghiệm kép x1=x2=" + noKep);
-    }else{
+    } else {
         alert("Phương trình có 2 nghiệm phân biệt x1=" + x1 + "x2=" + x2);
     }
 </script>
