@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = [];
+    let b = [];
+    let c = [];
+    for (i = 0; i < 10; i++) {
+        a[i] = Number(prompt('Nhập 10 phần tử cho mảng a'));
+    }
+    for (i = 0; i < 10; i++) {
+        b[i] = Number(prompt('Nhập 10 phần tử cho mảng b'));
+    }
+    c = a.concat(b);
+    document.write('Mảng c sau khi nối là c=[' + c + ']');
+</script>
+</body>
+</html>

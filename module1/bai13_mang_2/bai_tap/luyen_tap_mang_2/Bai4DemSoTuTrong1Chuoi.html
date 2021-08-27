@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let array = [0, 5, "hoang viet", 2, "kenzuro", 16, "akayashi", 9, 7, 73, "tram",23];
+    let count = 0;
+    document.write("mang = [" + array + "]<br/><br/>")
+    for (let i = 0; i < array.length; i++) {
+        if (array[i] % 1 !== 0) {
+            count++;
+            document.write("Số từ trong chuỗi \"" + array[i] + "\"" + " là " + array[i].length + "<br/>");
+        }
+
+    }
+    document.write("<b>Số từ trong mảng mà ta đếm được là:</b> " + count);
+
+</script>
+</body>
+</html>

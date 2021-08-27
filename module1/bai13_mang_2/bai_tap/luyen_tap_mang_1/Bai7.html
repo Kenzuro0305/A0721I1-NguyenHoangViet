@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr = [5, 2, 2, 2, 6, 7];// xóa 2; 3,4,5,6,7,7=>gán số =0;
+    // chạy for thì i=1 => 5,2,2,6,7,0;=>i=1[5,2,2,6,7,0]
+    let v = prompt("nhập số cần xóa");
+    for (let i = 0; i < arr.length; i++) {
+        if (v == arr[i]) {
+            for (let j = i; j < arr.length - 1; j++) {
+                arr[j] = arr[j + 1];
+            }
+            arr[arr.length - 1] = 0;
+            alert("xóa" + arr)
+            i--;
+        }
+    }
+    alert(arr)
+</script>
+</body>
+</html>

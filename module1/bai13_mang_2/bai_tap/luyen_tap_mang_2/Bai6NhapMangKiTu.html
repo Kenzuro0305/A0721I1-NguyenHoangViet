@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let array=[];
+    let arrayReplace=[];
+    for (let i=0; i<1;i++) {
+        array[i]=prompt('Nhập lần lượt 10 kí tự bất kì'); //nhập ký tự có dấu "-"
+    }
+    document.write("Mảng = ["+array+"]<br/>");
+    for (let i=0; i<array.length; i++) {
+        for (let j=0; j<array[i].length; j++) {
+            if (array[i][j] === "-") {
+                arrayReplace.push(array[i][j] = "_");
+            }
+            else {
+                arrayReplace.push(array[i][j]);
+            }
+        }
+    }
+    document.write("Mảng thay thế = ["+arrayReplace.join("")+"]<br/>");
+</script>
+</body>
+</html>
