@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function change(arr) {
+        for (i=0;i<2;i++) {
+            arr[i];
+        }
+        return arr.reverse();
+    }
+    let mang=[];
+    for (let i=0;i<2;i++) {
+        mang[i] = parseInt(prompt("Nhập số nguyên"));
+    }
+    document.write('Hai số vừa nhập vào là '+mang+'<br/>');
+    let ketQua = change(mang);
+    document.write('Hai số sau khi đổi chỗ là '+ketQua);
+</script>
+</body>
+</html>

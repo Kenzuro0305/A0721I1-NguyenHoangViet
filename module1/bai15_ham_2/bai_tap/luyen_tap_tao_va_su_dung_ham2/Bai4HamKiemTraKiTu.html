@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function checkKiTu(str) {
+        if (str % 1 === 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    let str = prompt('Nhập bất kì')
+    if (checkKiTu(str)) {
+        alert(str + ' là kí tự số');
+    } else {
+        alert(str + ' không phải là kí tự số');
+    }
+</script>
+</body>
+</html>

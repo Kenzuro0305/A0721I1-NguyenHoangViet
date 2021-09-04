@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function tinhArea(r) {
+        let s = 3.14*r*r;
+        return s;
+    }
+    function tinhPerimeter(r) {
+        let c = 2*3.14*r;
+        return c;
+    }
+    let num = prompt('Nhập bán kính hình tròn');
+    let dienTich = tinhArea(num);
+    let chuVi =tinhPerimeter(num);
+    document.write('Bán kính hình tròn nhập vào là ' +num+'<br/>');
+    document.write('Diện tích hình tròn sẽ là ' +dienTich+'<br/>');
+    document.write('Chu vi của hình tròn sẽ là '+chuVi);
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="number" oninput="enterArgument(this.value)">
+<p>Result: <span id="result"></span></p>
+<script>
+    function enterArgument(a) {
+        a++;
+        document.getElementById("result").innerHTML=a;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nameStars = ["Polaris", "Aldebaran", "Deneb", "Vega", "Altair", "Dubhe", "Regulus"];
+    let chomSao = ["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa Major", "Leo"];
+
+    function findStars(star) {
+        for (let i = 0; i < nameStars.length; i++) {
+            if (star === nameStars[i]) {
+                return chomSao[i];
+            }
+        }
+        return ''
+    }
+
+    let inputName = prompt('Nhập tên ngôi sao');
+    let star = findStars(inputName);
+    if (star === '') {
+        alert('Tên nhập vào không trùng khớp với tên các ngôi sao trong dữ liệu');
+    } else {
+        document.write('Ngôi sao bạn đã nhập là ' + inputName + ' tương ứng với chòm sao ' + star);
+    }
+</script>
+
+</body>
+</html>
