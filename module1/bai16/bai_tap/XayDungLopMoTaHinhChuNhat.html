@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="ketQua"></p>
+<p id="ketQua1"></p>
+<h3>Ta có hình dạng hình chữ nhật màu đỏ như sau: </h3>
+<canvas id="canvas" style="border: 1px solid #000000" width="1000px" height="500px"></canvas>
+<script>
+    class Rectangle {
+        constructor(dai, rong) {
+            this.lenght = dai;
+            this.width = rong;
+        }
+
+        chieuDai() {
+            return this.lenght;
+        }
+
+        chieuRong() {
+            return this.width;
+        }
+
+        setChieuDai(dai) {
+            this.lenght = dai;
+        }
+
+        setChieuRong(rong) {
+            this.width = rong;
+        }
+
+        dienTich() {
+            return this.lenght * this.width;
+        }
+
+        chuVi() {
+            return 2 * (this.lenght + this.width);
+        }
+
+        createRectangle() {
+            let canvas = document.getElementById("canvas");
+            let ctx = canvas.getContext("2d");
+            ctx.fillStyle = "red";
+            ctx.fillRect(500 - 0.5 * this.lenght, 250 - 0.5 * this.width, this.lenght, this.width);
+        }
+    }
+
+    let rectangle = new Rectangle();
+    let setChieuDai = rectangle.setChieuDai(800);
+    let setChieuRong = rectangle.setChieuRong(350);
+    let createrectange = rectangle.createRectangle();
+    let chieuDai = rectangle.chieuDai();
+    let chieuRong = rectangle.chieuRong();
+    let area = rectangle.dienTich();
+    let chuVi = rectangle.chuVi();
+
+    document.getElementById("ketQua").innerHTML = "Chiều dài HCN là " + chieuDai + ". Chiều rộng HCN là " + chieuRong;
+    document.getElementById("ketQua1").innerHTML = "Diện tích HCN là " + area + ". Chu vi HCN là " + chuVi;
+
+</script>
+</body>
+</html>
