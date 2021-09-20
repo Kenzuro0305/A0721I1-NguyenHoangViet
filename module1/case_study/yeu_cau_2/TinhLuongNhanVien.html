@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let luong = parseInt(prompt("Nhập lương tháng này nhận được: "));
+    let thue;
+    let luongRong;
+    if (luong >= 15000000) {
+        luongRong = luong * (1 - 0.2);
+        document.write("Thuế thu nhập cá nhận của bạn là 20%<br/>");
+        document.write("Lương nhận được sau thuế của bạn là " + luongRong);
+    } else if (luong >= 7000000) {
+        luongRong = luong * (1 - 0.1);
+        document.write("Thuế thu nhập cá nhận của bạn là 10%<br/>");
+        document.write("Lương nhận được sau thuế của bạn là " + luongRong);
+    } else {
+        luongRong = luong * (1 - 0.05);
+        document.write("Thuế thu nhập cá nhận của bạn là 5%<br/>");
+        document.write("Lương nhận được sau thuế của bạn là " + luongRong);
+    }
+</script>
+</body>
+</html>

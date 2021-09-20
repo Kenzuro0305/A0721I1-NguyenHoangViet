@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nguyenAm = ['o', 'u', 'i', 'a', 'e', 'O', 'U', 'I', 'A', 'E'];
+    let num = String(prompt('Nhập kí tự bất kì vào đây:'));
+    flag = false;
+    for (let i = 0; i < nguyenAm.length; i++) {
+        if (num == nguyenAm[i]) {
+            flag = true;
+        }
+    }
+    if (flag == true) {
+        alert(num + " là số nguyển âm");
+    } else {
+        alert(num + " là số phụ âm");
+    }
+
+</script>
+</body>
+</html>
