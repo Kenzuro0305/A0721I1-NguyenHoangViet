@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/giai_phuong_trinh_bac_nhat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/SystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/khai_bao_va_su_dung_bien/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/kiem_tra_nam_nhuan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/su_dung_toan_tu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/tinh_chi_so_can_nang_cua_co_the/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/thuc_hanh/tinh_so_ngay_trong_thang/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/bai_tap/hien_thi_loi_chao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/bai_tap/ung_dung_chuyen_doi_tien_te/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../helloWord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../helloWord/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" afterDir="false" />
@@ -25,68 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_0_beta_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-ant-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-ant-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-astbuilder-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-cli-commons-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-cli-picocli-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-console-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-console-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-contracts-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-contracts-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-datetime-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-datetime-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-dateutil-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-docgenerator-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-ginq-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-ginq-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-groovysh-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-jmx-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-jmx-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-json-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-json-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-jsr223-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-macro-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-macro-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-macro-library-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-nio-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-nio-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-servlet-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-servlet-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-sql-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-sql-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-swing-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-swing-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-templates-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-templates-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-test-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-test-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-test-junit5-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-testng-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-testng-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-toml-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-toml-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.0-beta-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-xml-4.0.0-beta-1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/groovy-xml-4.0.0-beta-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,26 +48,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.su_dung_toan_tu.Main" />
+      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.bai_tap.ung_dung_chuyen_doi_tien_te.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.su_dung_toan_tu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.giai_phuong_trinh_bac_nhat.Main" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.giai_phuong_trinh_bac_nhat.*" />
+          <option name="PATTERN" value="ss1_introduction_to_java.bai_tap.ung_dung_chuyen_doi_tien_te.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.Main" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss1_introduction_to_java.bai_tap.hien_thi_loi_chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
