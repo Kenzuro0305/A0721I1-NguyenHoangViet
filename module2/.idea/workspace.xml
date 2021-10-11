@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/bai_tap/hien_thi_loi_chao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_introduction_to_java/bai_tap/ung_dung_chuyen_doi_tien_te/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/bai_tap/HienThi20SoNguyenToDauTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_trong_java/bai_tap/HienThiCacSoNguyenToNhoHon100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc_trong_java/bai_tap/DemSoLanXuatHienKiTuTrongChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc_trong_java/bai_tap/GopMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc_trong_java/bai_tap/ThemPhanTuVaoMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc_trong_java/bai_tap/TimGiaTriLonNhatTrongMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang_phuong_thuc_trong_java/bai_tap/TimPhanTuLonNhatTrongMang2Chieu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../helloWord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../helloWord/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" afterDir="false" />
@@ -19,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/ss1_introduction_to_java/bai_tap/ung_dung_chuyen_doi_tien_te/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/ss1_introduction_to_java/bai_tap/ung_dung_chuyen_doi_tien_te/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,52 +54,39 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.TimPhanTuLonNhatTrongMang2Chieu">
+    <configuration name="GopMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc_trong_java.bai_tap.GopMang" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_mang_phuong_thuc_trong_java.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HienThiCacSoNguyenToNhoHon100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_vong_lap_trong_java.bai_tap.HienThiCacSoNguyenToNhoHon100" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss2_vong_lap_trong_java.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.bai_tap.ung_dung_chuyen_doi_tien_te.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ss1_introduction_to_java.bai_tap.ung_dung_chuyen_doi_tien_te.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.tinh_so_ngay_trong_thang.Main" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.tinh_so_ngay_trong_thang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.kiem_tra_nam_nhuan.Main" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.kiem_tra_nam_nhuan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_to_java.thuc_hanh.tinh_chi_so_can_nang_cua_co_the.Main" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss1_introduction_to_java.thuc_hanh.tinh_chi_so_can_nang_cua_co_the.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimPhanTuLonNhatTrongMang2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc_trong_java.bai_tap.TimPhanTuLonNhatTrongMang2Chieu" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_mang_phuong_thuc_trong_java.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimPhanTuLonNhatTrongMang2Chieu" />
+        <item itemvalue="Application.GopMang" />
+        <item itemvalue="Application.HienThiCacSoNguyenToNhoHon100" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -145,5 +151,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
