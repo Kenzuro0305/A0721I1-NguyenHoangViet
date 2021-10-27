@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_fan/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_fan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_quadraticequation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_quadraticequation/Quadraticequation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/access_modifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/access_modifier/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/xay_dung_lop_chi_ghi_trong_java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_circle_va_lop_cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_circle_va_lop_cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_circle_va_lop_cylinder/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_circle_va_lop_cylinder/TestCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_point2d_va_lop_point3d/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_point2d_va_lop_point3d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_point2d_va_lop_point3d/TestPoint2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/lop_point2d_va_lop_point3d/TestPoint3D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../helloWord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../helloWord/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" afterDir="false" />
@@ -21,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_stopwatch/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module2/ss4_lop_va_doi_tuong_trong_java/bai_tap/xay_dung_lop_stopwatch/StopWatch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -50,13 +60,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_quadraticequation.Main" />
+  <component name="RunManager" selected="Application.TestPoint3D">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.access_modifier.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_quadraticequation.*" />
+          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.access_modifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.thuc_hanh.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.xay_dung_lop_chi_ghi_trong_java.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.thuc_hanh.*" />
+          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.xay_dung_lop_chi_ghi_trong_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_stopwatch.Main" />
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.TestCircle" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_stopwatch.*" />
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_fan.Main" />
+    <configuration name="TestCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.TestCylinder" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_lop_va_doi_tuong_trong_java.bai_tap.xay_dung_lop_fan.*" />
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimPhanTuLonNhatTrongMang2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_phuong_thuc_trong_java.bai_tap.TimPhanTuLonNhatTrongMang2Chieu" />
+    <configuration name="TestPoint3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.lop_point2d_va_lop_point3d.TestPoint3D" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_phuong_thuc_trong_java.bai_tap.*" />
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.lop_point2d_va_lop_point3d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.TimPhanTuLonNhatTrongMang2Chieu" />
+        <item itemvalue="Application.TestPoint3D" />
+        <item itemvalue="Application.TestCylinder" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
