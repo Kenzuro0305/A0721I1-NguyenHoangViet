@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/array_list/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/array_list/TestMyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/colorable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/Sharp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_interface/bai_tap/resizeable/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/bai_tap/refactoring/TennisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/bai_tap/refactoring/TennisGameCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/bai_tap/refactoring/TennisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/TestLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocPhanTuTrongMangSoNguyen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DapNguocChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dem_so_lan_xuat_hien_moi_tu_dung_map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_chuoi_palindrome_dung_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/MainCach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/to_chuc_du_lieu_hop_li_queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/to_chuc_du_lieu_hop_li_queue/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../helloWord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../helloWord/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" afterDir="false" />
@@ -66,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TestMyList">
+  <component name="RunManager" selected="Application.TestLinkedList">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss7_abstract_interface.bai_tap.colorable.Main" />
       <module name="module2" />
@@ -93,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.TestCylinder" />
+    <configuration name="TestLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_dsa_danh_sach.bai_tap.linked_list.TestLinkedList" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.bai_tap.lop_circle_va_lop_cylinder.*" />
+          <option name="PATTERN" value="ss10_dsa_danh_sach.bai_tap.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLinkedList" />
         <item itemvalue="Application.TestMyList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.TestPoint3D" />
-        <item itemvalue="Application.TestCylinder" />
       </list>
     </recent_temporary>
   </component>
