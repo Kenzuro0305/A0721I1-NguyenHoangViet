@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/bai_tap/linked_list/TestLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DaoNguocPhanTuTrongMangSoNguyen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen_su_dung_stack/DapNguocChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/dem_so_lan_xuat_hien_moi_tu_dung_map/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_chuoi_palindrome_dung_queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/kiem_tra_dau_ngoac_trong_stack/MainCach2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/to_chuc_du_lieu_hop_li_queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/to_chuc_du_lieu_hop_li_queue/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWord/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../helloWord/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai5DemSoNguyenAmTrong1Chuoi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai8SapXepMangTheoThuTuGiamDan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai13_mang_2/bai_tap/luyen_tap_mang_1/Bai8SapXepMangTheoThuTuGiamDan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/bai17_lap_trinh_huong_doi_tuong_2/QuanLySinhVien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/bai17_lap_trinh_huong_doi_tuong_2/QuanLySinhVien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/XayDungMangAChiChuaCacSoNguyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/XayDungMangAChiChuaCacSoNguyen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/yeu_cau_3/bai4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/case_study/yeu_cau_5/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/case_study/yeu_cau_5/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/thi_ket_thuc_module/cau_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29f984d0-5d7f-461a-acab-656687a5d96f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +30,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestLinkedList">
+  <component name="RunManager" selected="Application.TestMyList">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss7_abstract_interface.bai_tap.colorable.Main" />
       <module name="module2" />
@@ -125,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestLinkedList" />
         <item itemvalue="Application.TestMyList" />
+        <item itemvalue="Application.TestLinkedList" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.TestPoint3D" />

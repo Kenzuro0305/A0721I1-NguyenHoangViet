@@ -30,12 +30,12 @@ public class TestMyList {
         }
     }
     public static void main(String[] args) {
-        Student a = new Student(1,"Hau1");
-        Student b = new Student(2,"Hau2");
-        Student c = new Student(3,"Hau3");
-        Student d = new Student(4,"Hau4");
-        Student e = new Student(5,"Hau5");
-        Student f = new Student(7,"Hau7");
+        Student a = new Student(1,"Viet1");
+        Student b = new Student(2,"Viet2");
+        Student c = new Student(3,"Viet3");
+        Student d = new Student(4,"Viet4");
+        Student e = new Student(5,"Viet5");
+        Student f = new Student(6,"Viet6");
         MyArrayList<Student> studentMyArrayList = new MyArrayList<>();
         studentMyArrayList.add(a);
         studentMyArrayList.add(b);
