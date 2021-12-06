@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    let arr = [];
+    let n = prompt("Nhập mảng số nguyên n phần tử");
+    let average = 0;
+    for (let i = 0; i < n; i++) {
+        if (n <= 50) {
+            arr.push(parseInt(prompt("Nhập số")));
+        } else {
+            alert("Số phần tử vượt quá 50");
+        }
+    }
+    let sum = 0;
+    for (let i = 1; i < arr.length; i++) {
+        if (arr[i] % 2 == 0){
+            sum += arr[i];
+        }
+    }
+    average = sum / arr.length;
+    alert("Mảng arr = [" + arr + "]");
+    alert("Giá trị trung bình" + average );
+</script>
 </body>
 </html>

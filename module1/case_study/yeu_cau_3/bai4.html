@@ -2,9 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    let so = prompt("nhập");
+    document.write("Số nhập vào là "+so+"<br>")
+    document.write("Đổi số thành chữ sẽ là: ");
+    parseFloat();
+    let tachSO =[];
+    while (so!=0) {
+        tachSO = parseInt(so % 10);
+        switch (tachSO) {
+            case 0:
+                document.write("không ");
+                break;
+            case 1:
+                document.write("một ");
+                break;
+            case 2:
+                document.write("hai ");
+                break;
+            case 3:
+                document.write("ba ");
+                break;
+            case 4:
+                document.write("bốn ");
+                break;
+            case 5:
+                document.write("năm ");
+                break;
+        }
+        so = parseInt(so / 10);
+    }
+    /*
+    * */
+</script>
 </body>
 </html>

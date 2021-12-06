@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    let m = parseInt(prompt("Nhập vào số dòng của ma trận"));
+    let n = parseInt(prompt("Nhập vào số cột của ma trận"));
+    let matrix = [];
+    for (let i = 0; i < m; i++) {
+        let row = [];
+        for (let j = 0; j < n; j++) {
+            row[j] = parseInt(prompt("Nhập số vào ma trận"));
+        }
+        matrix[i] = row;
+    }
+    for (let i = 0; i < matrix.length; i++) {
+        for (let j = 0; j < matrix[i].lenght; j++) {
+            if (matrix[i][j] % 2 === 0) {
+                total += matrix[i][j];
+            }
+        }
+    }
+    console.table(matrix);
+    alert("Tổng của các số chẵn trong ma trận là:" + total);
+</script>
 </body>
 </html>

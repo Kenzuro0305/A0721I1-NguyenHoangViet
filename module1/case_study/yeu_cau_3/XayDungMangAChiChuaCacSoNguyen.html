@@ -2,9 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    let a = [];
+    for (let i = 0; i < 6; i++) {
+        a[i] = Number(prompt("Nhập số"));
+    }
+    document.write("Mảng a=[" + a + "]<br/>");
+    let b = [];
+    b[0] = a[0];
+    b[1] = b[0] + a[1];
+    for (let n = 1; n < a.length; n++) {
+        b[n] = b[n - 1] + a[n];
+    }
+    document.write("Mảng prefixSums b=[" + b + "]");
+
+</script>
 </body>
 </html>

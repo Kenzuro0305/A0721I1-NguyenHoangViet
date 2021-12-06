@@ -2,9 +2,30 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    class Book {
+        constructor(id, name, year, quantity, status) {
+            this.id = id;
+            this.name = name;
+            this.year = year;
+            this.quantity = quantity;
+            this.status = status;
+        }
+        toString(){
+            return "id :" + this.id + "name :" + this.name;
+        }
+    }
+    let bookList = [];
+    function addNewBook() {
+        let id = prompt("nhập mã sách");
+        let name = prompt("nhập tên sách");
+        let year = prompt("nhập năm xuất bản sách");
+        let quantity = prompt("nhập số lượng");
+        let newBook = new Book(id, name, year, quantity );
+        bookList.push(newBook);
+</script>
 </body>
 </html>
