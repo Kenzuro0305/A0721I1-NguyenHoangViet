@@ -14,7 +14,7 @@ import java.io.IOException;
 public class CustomerServlet extends HttpServlet {
     private CustomerService customerService = new ICustomerService();
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
+        if(
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
