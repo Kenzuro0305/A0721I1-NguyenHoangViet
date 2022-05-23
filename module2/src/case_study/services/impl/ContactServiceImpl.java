@@ -17,4 +17,9 @@ public class ContactServiceImpl implements ContactService {
     public void delete() {
 
     }
+
+    @Override
+    public void edit() {
+
+    }
 }

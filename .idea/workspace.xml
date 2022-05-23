@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e614b534-6713-4055-bb2f-5318e6913851" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/module1/bai_tap_ung_dung/t1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/bai_tap_ung_dung/t2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/ss8_bootstrap/bai_tap/tao_gallery_don_gian_su_dung_bootstrap/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/ss8_bootstrap/thuc_hanh/su_dung_bootstrap_xay_dung_form_login/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/bai_tap_ung_dung/form1.html" beforeDir="false" afterPath="$PROJECT_DIR$/module3/ss8_bootstrap/bai_tap/tao_gallery_don_gian_su_dung_bootstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/bai_tap_ung_dung/form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/module3/ss8_bootstrap/thuc_hanh/su_dung_bootstrap_xay_dung_form_login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/bai_tap_ung_dung/form3.html" beforeDir="false" afterPath="$PROJECT_DIR$/module1/bai_tap_ung_dung/t3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/bai_tap_ung_dung/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module1/bai_tap_ung_dung/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/controllers/FuramaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/controllers/FuramaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/models/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/impl/BookingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/impl/BookingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/impl/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/impl/ContactServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/impl/EmployServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/impl/EmployServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/case_study/services/impl/FacilityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/case_study/services/impl/FacilityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module/controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/controller/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/controller/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/model/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/service/StudentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/service/StudentsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/service/TeachersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/service/TeachersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/util/CSVHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_ket_thuc_module2/util/CSVHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/controller/MenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/controller/MenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/data/genuinemobiles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/data/genuinemobiles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/model/GenuinePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/model/GenuinePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/model/HandlePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/model/HandlePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/model/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/model/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/service/GenuinePhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/service/GenuinePhoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/service/HandlePhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/service/HandlePhoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/service/NotFoundProductException.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/service/NotFoundProductException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/thi_modul2/util/CSVHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/thi_modul2/util/CSVHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3/.idea/module3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module3/.idea/module3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai lieu/Tài liêu triển khai lớp mới lớp A0721I1.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai lieu/tai_lieu_module2/CG-DN CaseStudy Furama Resort Module 2_v3.0_TrungDP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai lieu/tai_lieu_module2/CG_DN-Audit-Module-2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai lieu/tai_lieu_module2/Check List CaseStudy A0721I1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tai lieu/tai_lieu_module2/[A0721I1] TKB Advanced Programming in Java.xlsx - TKB APJ 3x4.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21uYS7bSuB1oT2qrd9m6aQ73SMZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e614b534-6713-4055-bb2f-5318e6913851" name="Changes" comment="" />
+      <created>1638792436255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638792436255</updated>
+      <workItem from="1646656772935" duration="501000" />
+      <workItem from="1647607704262" duration="19000" />
+      <workItem from="1647607763364" duration="8000" />
+      <workItem from="1647607834911" duration="5000" />
+      <workItem from="1647609070938" duration="45000" />
+      <workItem from="1647609138416" duration="834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646656797417">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="520" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1646656797417" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1647609968254">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1647609968254" />
+    <state x="209" y="29" key="new project wizard" timestamp="1647609977479">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="209" y="29" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1647609977479" />
+  </component>
+</project>

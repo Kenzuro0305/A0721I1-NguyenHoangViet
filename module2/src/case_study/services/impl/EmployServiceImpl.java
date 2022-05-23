@@ -38,12 +38,17 @@ public class EmployServiceImpl implements EmployeeService {
         String position = scanner.nextLine();
         System.out.println("Nhập lương: ");
         int salary = scanner.nextInt();
-        Employee employee = new Employee(id, name, age, sex, idCard, email, level, position, salary);
+        Employee employee = new Employee(id,name,age,sex,idCard,email,level,position,salary);
         employeeList.add(employee);
     }
 
     @Override
     public void delete() {
+
+    }
+
+    @Override
+    public void edit() {
 
     }
 }

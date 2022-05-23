@@ -2,6 +2,7 @@ package case_study.controllers;
 
 import case_study.services.impl.EmployServiceImpl;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class FuramaController {
@@ -32,6 +33,16 @@ public class FuramaController {
                     displayFacilityMenu();
                     break;
                 }
+                case 4: {
+                    displayBookingMenu();
+                    break;
+                }
+                case 5: {
+                    displayPromotionMenu();
+                    break;
+                }
+                default:
+                    check = false;
             }
         }
     }
@@ -81,6 +92,37 @@ public class FuramaController {
             Scanner scanner = new Scanner(System.in);
             switch (scanner.nextInt()){
                 case 1: {
+
+                }
+            }
+        }
+    }
+    public static void displayBookingMenu(){
+        boolean check = true;
+        while (check){
+            System.out.println("1. Add new booking ");
+            System.out.println("2. Display list booking ");
+            System.out.println("3. Create new contracts ");
+            System.out.println("4. Display list contracts ");
+            System.out.println("5. Edit contracts ");
+            System.out.println("6. Return main menu ");
+            Scanner scanner = new Scanner(System.in);
+            switch (scanner.nextInt()){
+                case 1: {
+
+                }
+            }
+        }
+    }
+    public static void displayPromotionMenu(){
+        boolean check = true;
+        while (check){
+            System.out.println("1. Display list customers use service");
+            System.out.println("2. Display list customers get voucher");
+            System.out.println("3. Return main menu");
+            Scanner scanner = new Scanner(System.in);
+            switch (scanner.nextInt()){
+                case 1:{
 
                 }
             }

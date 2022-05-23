@@ -17,4 +17,9 @@ public class FacilityServiceImpl implements FacilityService {
     public void delete() {
 
     }
+
+    @Override
+    public void edit() {
+
+    }
 }

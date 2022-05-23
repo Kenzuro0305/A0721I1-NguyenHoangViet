@@ -1,9 +1,11 @@
 package case_study.services;
 
 public interface Service {
-    public void display();
+    void display();
 
-    public void addNew();
+    void addNew();
 
-    public  void delete();
+    void delete();
+
+    void edit();
 }

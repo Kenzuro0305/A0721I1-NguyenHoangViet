@@ -1,15 +1,22 @@
 package case_study.models;
 
 public abstract class Person {
-    private int id;
-    private String name;
-    private int age;
-    private String address;
-
+    protected int id;
+    protected String name;
+    protected int age;
+    protected String address;
+    protected String birthday;
+    protected String ma;
     public Person() {
     }
 
-    public Person(int id, String name, int age, String sex, String idCard, String email) {
+    public Person(int id, String name, int age, String address, String birthday, String ma) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+        this.address = address;
+        this.birthday = birthday;
+        this.ma = ma;
     }
 
     public int getId() {
@@ -42,5 +49,33 @@ public abstract class Person {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public String getBirthday() {
+        return birthday;
+    }
+
+    public void setBirthday(String birthday) {
+        this.birthday = birthday;
+    }
+
+    public String getMa() {
+        return ma;
+    }
+
+    public void setMa(String ma) {
+        this.ma = ma;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", address='" + address + '\'' +
+                ", birthday='" + birthday + '\'' +
+                ", ma='" + ma + '\'' +
+                '}';
     }
 }

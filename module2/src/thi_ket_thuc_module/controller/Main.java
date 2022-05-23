@@ -39,10 +39,8 @@ public class Main {
                     phoneDomesticService.search();
                     break;
                 }
-                case 5: {
-                    phoneDomesticService.exit();
-                    break;
-                }
+                default:
+                    check = false;
 
             }
         }
